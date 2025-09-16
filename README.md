@@ -1,5 +1,5 @@
 # apuntes-html
-DAW 2025-2026 (primer curso)
+**DAW 2025-2026 (primer curso)**
 - HTML, que significa HyperText Markup Language (Lenguaje de Marcado de Hipertexto), no es un lenguaje de programación, sino un lenguaje de marcado. Su función principal es estructurar el contenido de una página web. Piensa en HTML como el esqueleto de una página web; sin él, no habría texto, imágenes, enlaces, ni ninguna otra forma de contenido organizada.
 
 ##  ¿Cómo funciona el marcado?
@@ -7,12 +7,16 @@ DAW 2025-2026 (primer curso)
 
 - Por ejemplo, para crear un párrafo, usarías la etiqueta `<p>`:
 
-HTML
+1. *HTML*
+1. **HTML**
+1. ***HTML***
+1. ~HTML~
 
-1. `<p>`Este es un párrafo de ejemplo en una página web.`</p>`
-1. El navegador web lee este código y lo interpreta, mostrando el texto como un párrafo normal en la pantalla.
-1. La estructura básica de un documento HTML
-1. Un documento HTML básico tiene una estructura estándar:
+  
+- 1. `<p>`Este es un párrafo de ejemplo en una página web.`</p>`
+- 2. El navegador web lee este código y lo interpreta, mostrando el texto como un párrafo normal en la pantalla.
+- 3. La estructura básica de un documento HTML
+- 4. Un documento HTML básico tiene una estructura estándar:
 
 `<!DOCTYPE html>:` Esta declaración le dice al navegador que el documento es de tipo HTML5.
 
@@ -22,6 +26,20 @@ HTML
 
 `<body>:` Contiene todo el contenido visible de la página, como textos, imágenes, videos, enlaces, etc.
 
-Aquí tienes un ejemplo de una estructura completa:
+**Aquí tienes un ejemplo de una estructura completa**
+
+```html
+<html>
+<head>
+
+
+<body>
+ESTOY VIVO :D
+
+</body>
+</head>
+</html>
+
+```
 
 
