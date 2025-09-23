@@ -1,6 +1,8 @@
 # apuntes-html
 **DAW 2025-2026 (primer curso)**
 
+[Enlace wiki](https://es.wikipedia.org/wiki/Freidora_de_aire)
+
 
 ![imagen de fondo](imagenes/airfryer.jpeg)
 ![airfyergid](imagenes/airfyergid.gif)
