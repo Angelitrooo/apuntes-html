@@ -2,7 +2,7 @@
 **DAW 2025-2026 (primer curso)**
 
 
-![airfryer](https://github.com/user-attachments/assets/a4429190-6820-4047-8895-2b409677ac22)
+![airfryer](https://github.com/imágenes/airfryer.jpeg/)
 ![airfyergid](https://github.com/user-attachments/assets/e79eee31-c7bf-4589-ba72-766a4704c64c)
 
 
