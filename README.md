@@ -1,5 +1,16 @@
 # apuntes-html
 **DAW 2025-2026 (primer curso)**
+
+
+![airfryer](https://github.com/user-attachments/assets/a4429190-6820-4047-8895-2b409677ac22)
+
+
+
+
+
+
+
+
 - HTML, que significa HyperText Markup Language (Lenguaje de Marcado de Hipertexto), no es un lenguaje de programación, sino un lenguaje de marcado. Su función principal es estructurar el contenido de una página web. Piensa en HTML como el esqueleto de una página web; sin él, no habría texto, imágenes, enlaces, ni ninguna otra forma de contenido organizada.
 
 ##  ¿Cómo funciona el marcado?
@@ -41,5 +52,6 @@ ESTOY VIVO :D
 </html>
 
 ```
+
 
 
