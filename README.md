@@ -3,7 +3,7 @@
 
 
 ![airfryer](https://github.com/user-attachments/assets/a4429190-6820-4047-8895-2b409677ac22)
-
+![airfyergid](https://github.com/user-attachments/assets/e79eee31-c7bf-4589-ba72-766a4704c64c)
 
 
 
@@ -28,7 +28,6 @@
 - 2. El navegador web lee este código y lo interpreta, mostrando el texto como un párrafo normal en la pantalla.
 - 3. La estructura básica de un documento HTML
 - 4. Un documento HTML básico tiene una estructura estándar:
-
 `<!DOCTYPE html>:` Esta declaración le dice al navegador que el documento es de tipo HTML5.
 
 `<html>:` El elemento raíz que envuelve todo el contenido de la página.
